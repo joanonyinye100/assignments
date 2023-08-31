@@ -19,4 +19,7 @@ font-size: 20PX;
 p{
     text-align: justify;
 }
-    
+ol .bold::marker{
+    font-weight: bold;
+
+}
